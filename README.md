@@ -162,6 +162,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
+| [🧭 **PathIQ** — AI Career Guidance Engine](https://github.com/aarthi-1610/PathIQ-AI-Career-Guidance-Engine-) | Java · Spring Boot · MySQL · HTML · CSS · JavaScript · OpenRouter LLM API | Full-stack AI career platform · Resume analysis · Interview prep · AI roadmap generation · Real-time Q&A · BCrypt auth · PDF parsing · Role-based dashboards |
 | [🏥 **MediCore** — Healthcare Patient Management System](https://github.com/aarthi-1610) | Python · Streamlit · SQLite · Random Forest · Groq API · Power BI | 3-role system (Admin/Doctor/Patient) · **88% ML accuracy** · Bilingual AI chatbot (EN & TA) · PDF reports · Power BI dashboards · Deployed on Streamlit Cloud |
 | [🏧 **Swift Cash** — ATM System](https://github.com/aarthi-1610) | Java · MySQL · JDBC | 5-module secure banking simulation · PIN + OTP authentication · Daily transaction limits · Modular OOP architecture |
 | [🩸 **BloodBridge** — Blood Donation Management System](https://github.com/aarthi-1610) | Java · Spring Boot · REST APIs · MySQL | RESTful backend with **4 full CRUD endpoints** · MVC layered architecture (Controller → Service → Repository) · Structured MySQL schema |
@@ -179,6 +180,7 @@ print(me.motto())
 |---|---|---|
 | 🎓 | **B.Tech – AI & Data Science** | CGPA **9.11** · Francis Xavier Engineering College · 2022–2026 |
 | 🤖 | **AI Internship** | M-Squared Software & Services Pvt. Ltd · ML pipeline with **85%+ accuracy** |
+| 📊 | **Deloitte Data Analytics Job Simulation** | Forage — Certified · Jun 2026 |
 | ☕ | **Java Programming for Beginners** | LinkedIn Learning — Certified |
 | 🔗 | **Java JDBC Connections** | LinkedIn Learning — Certified |
 | 🗄️ | **Introduction to SQL** | Simplilearn — Certified |
