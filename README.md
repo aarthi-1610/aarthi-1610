@@ -1,4 +1,4 @@
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aarthi%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Java%20%7C%20Python%20%7C%20ML%20Builder&descAlignY=62&descSize=16)](https://github.com/aarthi-1610)
+
 
 <div align="center">
 
