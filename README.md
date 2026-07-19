@@ -154,6 +154,30 @@ print(me.motto())
 
 </details>
 
+<details>
+<summary><b>🏢 SaiKet Systems — Software Development Intern | June 2026 – Present | Remote</b></summary>
+
+> `HTML` `CSS` `JavaScript` `Java` `Web Development` `UI Design` · Ref: SKS/A2/C140022
+
+- 🌐 Selected as **Software Development Intern**, working on a diverse range of projects across web technologies, programming languages, and design principles.
+- 🎨 Crafting user-friendly and visually appealing web interfaces — completed **Level 1** tasks (HTML, CSS, JavaScript) and **Level 2** Java-based tasks including Tic-Tac-Toe, Password Strength Analyzer, File Encryptor, and Expense Tracker.
+- 📄 Maintained clean, GitHub-ready README documentation for every project milestone.
+- 🚀 Contributing to the company's online presence through innovative, creative web solutions.
+
+</details>
+
+<details>
+<summary><b>🏢 Sysslan IT Solutions — Java Developer Intern | June 2026 – Present | Yavatmal, Maharashtra, India</b></summary>
+
+> `Java` `Research & Documentation` `Strategy Development` `Team Collaboration`
+
+- 💻 Selected as **Java Developer Intern**, collaborating on ongoing Java-based projects within the Java Developer domain.
+- 📝 Conducted research and prepared technical documentation to support project strategy and implementation.
+- 🤝 Contributed to strategy development, applying strong domain knowledge, attention to detail, and continuous learning.
+- 🌱 Strengthened core Java proficiency through real-world, team-based development work.
+
+</details>
+
 ---
 
 ## 🚀 Featured Projects
@@ -180,6 +204,8 @@ print(me.motto())
 |---|---|---|
 | 🎓 | **B.Tech – AI & Data Science** | CGPA **9.11** · Francis Xavier Engineering College · 2022–2026 |
 | 🤖 | **AI Internship** | M-Squared Software & Services Pvt. Ltd · ML pipeline with **85%+ accuracy** |
+| 💻 | **Software Development Internship** | SaiKet Systems · Ref: SKS/A2/C140022 |
+| ☕ | **Java Developer Internship** | Sysslan IT Solutions |
 | 📊 | **Deloitte Data Analytics Job Simulation** | Forage — Certified · Jun 2026 |
 | ☕ | **Java Programming for Beginners** | LinkedIn Learning — Certified |
 | 🔗 | **Java JDBC Connections** | LinkedIn Learning — Certified |
