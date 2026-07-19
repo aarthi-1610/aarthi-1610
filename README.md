@@ -130,15 +130,6 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aarthi-1610&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/aarthi-1610)
-
-</div>
-
----
 
 ## 💼 Work Experience
 
