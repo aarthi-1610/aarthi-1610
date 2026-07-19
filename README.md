@@ -76,7 +76,7 @@ print(me.motto())
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-0078D4?style=flat-square&logo=python&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat-square&logo=python&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=flat-square&logo=ai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=flat-square&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA_3.3_70B-7B2FBE?style=flat-square&logo=meta&logoColor=white)
 
 **Databases**
@@ -130,6 +130,15 @@ print(me.motto())
 
 ---
 
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=aarthi-1610&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/aarthi-1610)
+
+</div>
+
+---
 
 ## 💼 Work Experience
 
