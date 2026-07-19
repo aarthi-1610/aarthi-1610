@@ -97,7 +97,7 @@ print(me.motto())
 
 
 
-## 🔥 Streak Stats
+## 🔥 Streak Status
 
 <div align="center">
 
@@ -112,16 +112,6 @@ print(me.motto())
 <div align="center">
 
 [![Aarthi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aarthi-1610&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/aarthi-1610)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aarthi-1610&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/aarthi-1610)
 
 </div>
 
