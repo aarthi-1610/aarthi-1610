@@ -24,7 +24,7 @@ class AarthiT:
         self.location    = "Tenkasi, Tamil Nadu, India 🇮🇳"
         self.degree      = "B.Tech – Artificial Intelligence & Data Science"
         self.college     = "Francis Xavier Engineering College, Tirunelveli"
-        self.cgpa        = 9.11
+        self.cgpa        = 9.12
         self.github      = "github.com/aarthi-1610"
         
         self.stack = [
@@ -102,7 +102,7 @@ print(me.motto())
 
 > `Python` `Scikit-learn` `Logistic Regression` `Streamlit` `Data Preprocessing` `Feature Engineering` `Model Evaluation`
 
-- 🔬 Built an **end-to-end ML pipeline** for a Heart Disease Prediction web application achieving **85%+ classification accuracy** on test data.
+- 🔬 Built an **end-to-end ML pipeline** for a Heart Disease Prediction web application achieving **High classification accuracy** on test data.
 - 🧹 Applied data preprocessing and **feature engineering** to clean and structure real-world medical datasets for model training.
 - 🚀 Deployed the prediction model as an **interactive Streamlit web app** enabling real-time risk prediction.
 - 📊 Gained hands-on experience in supervised learning workflows, model evaluation metrics, and production-ready deployment.
@@ -142,7 +142,7 @@ print(me.motto())
 | Project | Stack | Highlights |
 |---|---|---|
 | [🧭 **PathIQ** — AI Career Guidance Engine](https://github.com/aarthi-1610/PathIQ-AI-Career-Guidance-Engine-) | Java · Spring Boot · MySQL · HTML · CSS · JavaScript · OpenRouter LLM API | Full-stack AI career platform · Resume analysis · Interview prep · AI roadmap generation · Real-time Q&A · BCrypt auth · PDF parsing · Role-based dashboards |
-| [🏥 **MediCore** — Healthcare Patient Management System](https://github.com/aarthi-1610) | Python · Streamlit · SQLite · Random Forest · Groq API · Power BI | 3-role system (Admin/Doctor/Patient) · **88% ML accuracy** · Bilingual AI chatbot (EN & TA) · PDF reports · Power BI dashboards · Deployed on Streamlit Cloud |
+| [🏥 **MediCore** — Healthcare Patient Management System](https://github.com/aarthi-1610) | Python · Streamlit · SQLite · Random Forest · Groq API · Power BI | 3-role system (Admin/Doctor/Patient) · **High ML accuracy** · Bilingual AI chatbot (EN & TA) · PDF reports · Power BI dashboards · Deployed on Streamlit Cloud |
 | [🏧 **Swift Cash** — ATM System](https://github.com/aarthi-1610) | Java · MySQL · JDBC | 5-module secure banking simulation · PIN + OTP authentication · Daily transaction limits · Modular OOP architecture |
 | [🩸 **BloodBridge** — Blood Donation Management System](https://github.com/aarthi-1610) | Java · Spring Boot · REST APIs · MySQL | RESTful backend with **4 full CRUD endpoints** · MVC layered architecture (Controller → Service → Repository) · Structured MySQL schema |
 | [❤️ **HeartGuard** — Heart Disease Prediction](https://github.com/aarthi-1610) | Python · Scikit-learn · Streamlit | Logistic Regression model · **85%+ accuracy** · Real-time risk prediction with live probability output |
@@ -179,7 +179,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| 🎓 B.Tech – Artificial Intelligence & Data Science | Francis Xavier Engineering College, Tirunelveli | 2022 – 2026 | **CGPA: 9.11** |
+| 🎓 B.Tech – Artificial Intelligence & Data Science | Francis Xavier Engineering College, Tirunelveli | 2022 – 2026 | **CGPA: 9.12** |
 | 📚 HSC (Class XII) | Government Higher Secondary School, Tenkasi | 2022 | **84%** |
 | 📖 SSLC (Class X) | Government Higher Secondary School, Tenkasi | 2020 | **77%** |
 
